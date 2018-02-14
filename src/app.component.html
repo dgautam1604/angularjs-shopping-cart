@@ -1,1 +1,18 @@
-Parent App
+<div id="header">
+    <h2>Angular Shopping</h2>
+    <ul>
+    <li ui-sref-active="active">
+        <a ui-sref="home">Home</a>
+    </li>
+    <li>
+        <a ui-sref="addProduct">Add Product</a>
+    </li>
+    <li>
+            <a ui-sref="cart">Cart</a>
+        </li>
+    </ul>
+</div>
+<div id="container">
+    <ui-view></ui-view>
+</div>
+

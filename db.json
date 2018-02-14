@@ -2,7 +2,9 @@
     "products": [
       { "id": 1, "title": "Iphone 6", "author": "Apple" ,
          "imgURL":"https://cdn2.gsmarena.com/vv/bigpic/apple-iphone-6-4.jpg"
-      }
-
+      },
+      { "id": 2, "title": "Iphone 7", "author": "Apple" ,
+        "imgURL":"NA"
+     }
     ]
 }
